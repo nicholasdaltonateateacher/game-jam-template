@@ -1,0 +1,1 @@
+object_set_solid(obj_block)
